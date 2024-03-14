@@ -24,9 +24,9 @@ const Hero = () => {
                         Hi, I'm <span className='text-[#915eff]'>Aleksandar</span>
                     </h1>
                     <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-                        Crafting Beautiful and Responsive Websites {' '}
+                        Email: stankovica606@gmail.com {' '}
                         <br className='sm:block hidden' />
-                        to Elevate Your Brand Online
+                        Phone: +1 732 860 0513
                     </p>
                 </div>
             </div>
