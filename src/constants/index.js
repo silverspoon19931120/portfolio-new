@@ -129,7 +129,7 @@ const experiences = [
     {
         title: "React Developer",
         company_name: "Meta, Menlo Park, CA",
-        icon: "R",
+        icon: "M",
         iconBg: "white",
         date: "01/2020 – 03/2024",
         points: [
@@ -145,7 +145,7 @@ const experiences = [
     {
         title: "React Developer",
         company_name: "Yutopia, Littleton, CO",
-        icon: "K",
+        icon: "Y",
         iconBg: "#151b1c",
         date: "05/2016 – 12/2019",
         points: [
@@ -159,7 +159,7 @@ const experiences = [
     {
         title: "Web Developer",
         company_name: "Daibes Enterprise, Edgewater, NJ",
-        icon: "C",
+        icon: "D",
         iconBg: "#050506",
         date: "04/2014 – 05/2016",
         points: [
